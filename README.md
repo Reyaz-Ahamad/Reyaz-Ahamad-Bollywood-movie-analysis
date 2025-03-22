@@ -1,5 +1,4 @@
 # Bollywood Movie Analysis
-### This project focuses on analyzing Bollywood movies released between 2020 and 2024, using real-time data collected via APIs. The analysis offers insights into various ###aspects of the movies, such as genres, ### Bollywood Movie Analysis
 ### This project focuses on analyzing Bollywood movies released between 2020 and 2024, using real-time data collected via APIs. The analysis offers insights into various ###aspects of the movies, such as genres, ### popularity, audience ratings, and release patterns.
 
 ## Features
